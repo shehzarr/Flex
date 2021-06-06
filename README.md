@@ -1,4 +1,4 @@
-# Flex-
+# Flex - An LMS
 Student Portal : A Desktop Application with integrated Database
 
 # Some of the screens
@@ -17,7 +17,7 @@ Student Portal : A Desktop Application with integrated Database
 3. Add/Update/Delete Course
 4. Generate Fee Challan
 
-#Student Usecases
+# Student Usecases
 
 1. View Marks
 2. View Attendance
